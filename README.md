@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3>This is a simple BMI Calculator Component build using ReactJS and following MaterialUI design.</h3>
 
 ## Available Scripts
 
