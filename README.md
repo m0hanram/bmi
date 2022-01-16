@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# BMI COMPONENT
 
 <h3>This is a simple BMI Calculator Component build using ReactJS and following MaterialUI design.</h3>
 
